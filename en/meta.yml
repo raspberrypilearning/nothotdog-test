@@ -1,0 +1,9 @@
+title: Not Hotdog testing images
+hero_image: images/banner.png
+description: a collection of images which are not hotdogs for testing a machine learning model
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Not hotdog testing images
