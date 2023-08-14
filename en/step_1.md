@@ -1,59 +1,204 @@
-## Introduction
+### 'Not Hotdog' testing images
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Drag and drop these images into the `Test` field in your machine learning model in your machine learning model:
 
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![a picture that is not of a hotdog](images/24844.jpg)
+![a picture that is not of a hotdog](images/25784.jpg)
+![a picture that is not of a hotdog](images/26279.jpg)
+![a picture that is not of a hotdog](images/27963.jpg)
+![a picture that is not of a hotdog](images/30731.jpg)
+![a picture that is not of a hotdog](images/32004.jpg)
+![a picture that is not of a hotdog](images/33259.jpg)
+![a picture that is not of a hotdog](images/33485.jpg)
+![a picture that is not of a hotdog](images/42252.jpg)
+![a picture that is not of a hotdog](images/46325.jpg)
+![a picture that is not of a hotdog](images/47388.jpg)
+![a picture that is not of a hotdog](images/48073.jpg)
+![a picture that is not of a hotdog](images/48840.jpg)
+![a picture that is not of a hotdog](images/87020.jpg)
+![a picture that is not of a hotdog](images/24159.jpg)
+![a picture that is not of a hotdog](images/24479.jpg)
+![a picture that is not of a hotdog](images/25026.jpg)
+![a picture that is not of a hotdog](images/25414.jpg)
+![a picture that is not of a hotdog](images/26078.jpg)
+![a picture that is not of a hotdog](images/26489.jpg)
+![a picture that is not of a hotdog](images/27330.jpg)
+![a picture that is not of a hotdog](images/27410.jpg)
+![a picture that is not of a hotdog](images/27415.jpg)
+![a picture that is not of a hotdog](images/28387.jpg)
+![a picture that is not of a hotdog](images/28783.jpg)
+![a picture that is not of a hotdog](images/31881.jpg)
+![a picture that is not of a hotdog](images/32693.jpg)
+![a picture that is not of a hotdog](images/37649.jpg)
+![a picture that is not of a hotdog](images/38615.jpg)
+![a picture that is not of a hotdog](images/28996.jpg)
+![a picture that is not of a hotdog](images/29204.jpg)
+![a picture that is not of a hotdog](images/29417.jpg)
+![a picture that is not of a hotdog](images/29869.jpg)
+![a picture that is not of a hotdog](images/30395.jpg)
+![a picture that is not of a hotdog](images/30892.jpg)
+![a picture that is not of a hotdog](images/32199.jpg)
+![a picture that is not of a hotdog](images/32556.jpg)
+![a picture that is not of a hotdog](images/32666.jpg)
+![a picture that is not of a hotdog](images/33783.jpg)
+![a picture that is not of a hotdog](images/34632.jpg)
+![a picture that is not of a hotdog](images/34793.jpg)
+![a picture that is not of a hotdog](images/35133.jpg)
+![a picture that is not of a hotdog](images/35235.jpg)
+![a picture that is not of a hotdog](images/36147.jpg)
+![a picture that is not of a hotdog](images/37384.jpg)
+![a picture that is not of a hotdog](images/37565.jpg)
+![a picture that is not of a hotdog](images/38337.jpg)
+![a picture that is not of a hotdog](images/38349.jpg)
+![a picture that is not of a hotdog](images/40947.jpg)
+![a picture that is not of a hotdog](images/35430.jpg)
+![a picture that is not of a hotdog](images/36042.jpg)
+![a picture that is not of a hotdog](images/36081.jpg)
+![a picture that is not of a hotdog](images/36370.jpg)
+![a picture that is not of a hotdog](images/38442.jpg)
+![a picture that is not of a hotdog](images/38768.jpg)
+![a picture that is not of a hotdog](images/40094.jpg)
+![a picture that is not of a hotdog](images/40231.jpg)
+![a picture that is not of a hotdog](images/40944.jpg)
+![a picture that is not of a hotdog](images/41693.jpg)
+![a picture that is not of a hotdog](images/42125.jpg)
+![a picture that is not of a hotdog](images/42487.jpg)
+![a picture that is not of a hotdog](images/42609.jpg)
+![a picture that is not of a hotdog](images/42954.jpg)
+![a picture that is not of a hotdog](images/43376.jpg)
+![a picture that is not of a hotdog](images/45035.jpg)
+![a picture that is not of a hotdog](images/39461.jpg)
+![a picture that is not of a hotdog](images/40449.jpg)
+![a picture that is not of a hotdog](images/40762.jpg)
+![a picture that is not of a hotdog](images/43636.jpg)
+![a picture that is not of a hotdog](images/43886.jpg)
+![a picture that is not of a hotdog](images/43924.jpg)
+![a picture that is not of a hotdog](images/44035.jpg)
+![a picture that is not of a hotdog](images/44578.jpg)
+![a picture that is not of a hotdog](images/44810.jpg)
+![a picture that is not of a hotdog](images/45200.jpg)
+![a picture that is not of a hotdog](images/45817.jpg)
+![a picture that is not of a hotdog](images/46246.jpg)
+![a picture that is not of a hotdog](images/46401.jpg)
+![a picture that is not of a hotdog](images/48208.jpg)
+![a picture that is not of a hotdog](images/48506.jpg)
+![a picture that is not of a hotdog](images/53217.jpg)
+![a picture that is not of a hotdog](images/54529.jpg)
+![a picture that is not of a hotdog](images/44449.jpg)
+![a picture that is not of a hotdog](images/44859.jpg)
+![a picture that is not of a hotdog](images/45059.jpg)
+![a picture that is not of a hotdog](images/45896.jpg)
+![a picture that is not of a hotdog](images/47115.jpg)
+![a picture that is not of a hotdog](images/47909.jpg)
+![a picture that is not of a hotdog](images/48052.jpg)
+![a picture that is not of a hotdog](images/48151.jpg)
+![a picture that is not of a hotdog](images/50193.jpg)
+![a picture that is not of a hotdog](images/50277.jpg)
+![a picture that is not of a hotdog](images/51368.jpg)
+![a picture that is not of a hotdog](images/51678.jpg)
+![a picture that is not of a hotdog](images/52934.jpg)
+![a picture that is not of a hotdog](images/53233.jpg)
+![a picture that is not of a hotdog](images/54685.jpg)
+![a picture that is not of a hotdog](images/49803.jpg)
+![a picture that is not of a hotdog](images/51481.jpg)
+![a picture that is not of a hotdog](images/51533.jpg)
+![a picture that is not of a hotdog](images/52510.jpg)
+![a picture that is not of a hotdog](images/53393.jpg)
+![a picture that is not of a hotdog](images/53758.jpg)
+![a picture that is not of a hotdog](images/54252.jpg)
+![a picture that is not of a hotdog](images/54461.jpg)
+![a picture that is not of a hotdog](images/54540.jpg)
+![a picture that is not of a hotdog](images/56449.jpg)
+![a picture that is not of a hotdog](images/57594.jpg)
+![a picture that is not of a hotdog](images/58448.jpg)
+![a picture that is not of a hotdog](images/58856.jpg)
+![a picture that is not of a hotdog](images/59144.jpg)
+![a picture that is not of a hotdog](images/59445.jpg)
+![a picture that is not of a hotdog](images/60069.jpg)
+![a picture that is not of a hotdog](images/60207.jpg)
+![a picture that is not of a hotdog](images/55601.jpg)
+![a picture that is not of a hotdog](images/55639.jpg)
+![a picture that is not of a hotdog](images/56240.jpg)
+![a picture that is not of a hotdog](images/56337.jpg)
+![a picture that is not of a hotdog](images/56409.jpg)
+![a picture that is not of a hotdog](images/58787.jpg)
+![a picture that is not of a hotdog](images/59497.jpg)
+![a picture that is not of a hotdog](images/59675.jpg)
+![a picture that is not of a hotdog](images/60306.jpg)
+![a picture that is not of a hotdog](images/60633.jpg)
+![a picture that is not of a hotdog](images/60819.jpg)
+![a picture that is not of a hotdog](images/60844.jpg)
+![a picture that is not of a hotdog](images/61656.jpg)
+![a picture that is not of a hotdog](images/62484.jpg)
+![a picture that is not of a hotdog](images/62663.jpg)
+![a picture that is not of a hotdog](images/66183.jpg)
+![a picture that is not of a hotdog](images/60655.jpg)
+![a picture that is not of a hotdog](images/61822.jpg)
+![a picture that is not of a hotdog](images/62084.jpg)
+![a picture that is not of a hotdog](images/62622.jpg)
+![a picture that is not of a hotdog](images/63099.jpg)
+![a picture that is not of a hotdog](images/63480.jpg)
+![a picture that is not of a hotdog](images/63878.jpg)
+![a picture that is not of a hotdog](images/63947.jpg)
+![a picture that is not of a hotdog](images/64906.jpg)
+![a picture that is not of a hotdog](images/64960.jpg)
+![a picture that is not of a hotdog](images/65097.jpg)
+![a picture that is not of a hotdog](images/66207.jpg)
+![a picture that is not of a hotdog](images/66533.jpg)
+![a picture that is not of a hotdog](images/66858.jpg)
+![a picture that is not of a hotdog](images/71511.jpg)
+![a picture that is not of a hotdog](images/65128.jpg)
+![a picture that is not of a hotdog](images/65608.jpg)
+![a picture that is not of a hotdog](images/65685.jpg)
+![a picture that is not of a hotdog](images/68684.jpg)
+![a picture that is not of a hotdog](images/69328.jpg)
+![a picture that is not of a hotdog](images/69414.jpg)
+![a picture that is not of a hotdog](images/69564.jpg)
+![a picture that is not of a hotdog](images/69645.jpg)
+![a picture that is not of a hotdog](images/70218.jpg)
+![a picture that is not of a hotdog](images/70456.jpg)
+![a picture that is not of a hotdog](images/71701.jpg)
+![a picture that is not of a hotdog](images/71719.jpg)
+![a picture that is not of a hotdog](images/76464.jpg)
+![a picture that is not of a hotdog](images/76466.jpg)
+![a picture that is not of a hotdog](images/72090.jpg)
+![a picture that is not of a hotdog](images/72716.jpg)
+![a picture that is not of a hotdog](images/73697.jpg)
+![a picture that is not of a hotdog](images/75537.jpg)
+![a picture that is not of a hotdog](images/75638.jpg)
+![a picture that is not of a hotdog](images/76061.jpg)
+![a picture that is not of a hotdog](images/76271.jpg)
+![a picture that is not of a hotdog](images/77677.jpg)
+![a picture that is not of a hotdog](images/78171.jpg)
+![a picture that is not of a hotdog](images/79489.jpg)
+![a picture that is not of a hotdog](images/80190.jpg)
+![a picture that is not of a hotdog](images/80215.jpg)
+![a picture that is not of a hotdog](images/80315.jpg)
+![a picture that is not of a hotdog](images/81543.jpg)
+![a picture that is not of a hotdog](images/76021.jpg)
+![a picture that is not of a hotdog](images/80750.jpg)
+![a picture that is not of a hotdog](images/80865.jpg)
+![a picture that is not of a hotdog](images/80887.jpg)
+![a picture that is not of a hotdog](images/81332.jpg)
+![a picture that is not of a hotdog](images/81779.jpg)
+![a picture that is not of a hotdog](images/81939.jpg)
+![a picture that is not of a hotdog](images/82274.jpg)
+![a picture that is not of a hotdog](images/82535.jpg)
+![a picture that is not of a hotdog](images/82578.jpg)
+![a picture that is not of a hotdog](images/82772.jpg)
+![a picture that is not of a hotdog](images/82946.jpg)
+![a picture that is not of a hotdog](images/85375.jpg)
+![a picture that is not of a hotdog](images/86180.jpg)
+![a picture that is not of a hotdog](images/86528.jpg)
+![a picture that is not of a hotdog](images/87246.jpg)
+![a picture that is not of a hotdog](images/88158.jpg)
+![a picture that is not of a hotdog](images/83053.jpg)
+![a picture that is not of a hotdog](images/83538.jpg)
+![a picture that is not of a hotdog](images/85398.jpg)
+![a picture that is not of a hotdog](images/85452.jpg)
+![a picture that is not of a hotdog](images/85514.jpg)
+![a picture that is not of a hotdog](images/86782.jpg)
+![a picture that is not of a hotdog](images/86812.jpg)
+![a picture that is not of a hotdog](images/87125.jpg)
+![a picture that is not of a hotdog](images/89027.jpg)
+![a picture that is not of a hotdog](images/24656.jpg)
